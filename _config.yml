@@ -1,11 +1,11 @@
 # Site settings
 author: Simranjit Nepaul
-title: 
+title: Getting Started - The Hard Part
 header-img: img/home-bg.png
 email: nepaul179@gmail.com
 copyright_name: Simranjit Nepaul
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science starters
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  snepaul179
